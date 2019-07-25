@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-‘name’: ‘Module de test’,
+‘name’: ‘Bank Management’,
 ‘version’: ‘1.2’,
 ‘summary’: ‘Gestion des operations bancaires’,
 ‘sequence’: 3,
